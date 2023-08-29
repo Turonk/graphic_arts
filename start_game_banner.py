@@ -3,7 +3,6 @@ from asciimatics.renderers import SpeechBubble
 from asciimatics.scene import Scene
 from asciimatics.screen import Screen
 from asciimatics.effects import Print
-from asciimatics.exceptions import ResizeScreenError
 from pyfiglet import Figlet
 import sys
 
